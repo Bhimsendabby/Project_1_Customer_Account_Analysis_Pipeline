@@ -43,4 +43,4 @@ The solution follows these key architectural steps:
 - **Visuals:** Power BI dashboard analyzing sales trends.
 
 ## Contributors
-- [Your Name/Team Name]
+- Bhim Sen
