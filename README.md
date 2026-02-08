@@ -23,13 +23,13 @@ The pipeline follows a modern cloud data architecture:
 
 
 ## Repository Structure
-`├── Code/
+├── Code/
 │   ├── adf_pipelines/      # JSON exports of API and SQL ingestion pipelines
 │   ├── data_flows/         # Data Flow logic for Deduplication, Null checks, and SCD
 │   └── sql_scripts/        # DDL/DML for Customer, Product, Sales, and Category tables
 ├── Documentation/          # Architecture diagrams and step-by-step process docs
 ├── Screenshots/            # Validation screenshots of successful pipeline runs
-└── README.md               # Project documentation`
+└── README.md               # Project documentation
 
 ## Project Architecture
 
